@@ -4,7 +4,7 @@ public enum Houses {
     GRYFFINDOR("Godric Gryffindor", "bravery"),
     HUFFLEPUFF("Helga Hufflepuff", "dedication"),
     RAVENCLAW("Rowena Ravenclaw", "wisdom"),
-    SLYTHERIN("Salazar Slytherin","astuteness");
+    SLYTHERIN("Salazar Slytherin", "astuteness");
 
     private final String founder;
     private final String virtue;
