@@ -21,9 +21,9 @@ Em vez de construir múltiplos projetos pequenos e desconectados, esta aplicaç�
 ## 🎯 Roadmap de Aprendizado & Funcionalidades
 
 ## 🔴 Fase 1: Fundação em Java Core & POO (Fase Atual)
-[ ] Modelagem Orientada a Objetos (Classes, Atributos, Métodos, Encapsulamento).
+[x] Modelagem Orientada a Objetos (Classes, Atributos, Métodos, Encapsulamento).
 
-[ ] Aplicação de Herança, Polimorfismo e Classes Abstratas.
+[x] Aplicação de Herança, Polimorfismo e Classes Abstratas.
 
 [ ] Tratamento defensivo de erros e Exceções Customizadas (ex: FeiticoInvalidoException, CasaLotadaException).
 
